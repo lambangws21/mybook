@@ -1,0 +1,67 @@
+{
+    "laporanOperasi": {
+      "namaTindakan": "Arthroscopy Elbow (Tennis elbow)",
+      "posisiPasien": "Lateral decubitus dengan arm holder",
+      "torniquet": "250mmHg dipasang se-proksimal mungkin (pastikan torniquet di cek dulu sebelum tangan dicuci). Torniquet harus ada.",
+      "jenisPembiusan": "Anestesi umum",
+      "asistenOperasi": "1 orang",
+      "instrumen": "1 orang",
+      "perkiraanLamaTindakan": "60 menit",
+      "instrumentasi": [
+        "Tower arthroscopy",
+        "Basic set anak",
+        "Set arthroscopy smith and nephew",
+        "Kamera arthroscope smith nephew dan light source",
+        "Hand piece shaver dyonics smith and nephew",
+        "Suction floor orange",
+        "Alat arthroscopy dr. Erica (microfracture)",
+        "Mallet bila pakai microfracture"
+      ],
+      "alatMedisHabisPakai": [
+        "Elastic verband steril",
+        "Prolene 4-0 atau T-vio 4-0",
+        "Ioban besar",
+        "Arm sling",
+        "HOGY Orthopaedic drape",
+        "Jarum abbocath 14G atau 16G",
+        "Spuit 20cc",
+        "Pisau no.11",
+        "NaCl 0.9% 1 liter untuk air arthroscopy",
+        "Skin marker",
+        "Depomedrol (Pfizer) atau Trilac atau Flamicort : 1 ampul"
+      ],
+      "alatMedisImplantDenganVendor": [
+        "Shaver : Dyonics 4.5mm Incisor plus elite",
+        "Selang air : Dyonics 25 Inflow tube set (setting di 60mmHg)",
+        "Radiofrequency : Ambient super turbovac 90 (setting 7-9)",
+        "Switching stick"
+      ],
+      "langkahLangkahOperasi": [
+        "Injeksi sendi elbow dengan NaCl 0.9% sebanyak 20cc",
+        "Masukkan trocar arthroscope yang sudah tersambung dengan selang air",
+        "Buat portal proximal antero medial",
+        "Lakukan diagnostic arthroscopy di kompartemen anterior",
+        "Buat portal direct lateral dengan abbocath dan klem lurus",
+        "Lakukan evaluasi dengan probe",
+        "Release capsule dan tendon ECRB dengan radiofrequency",
+        "Lakukan diagnostic arthroscopy sendi radiocapitellar dengan membuat soft spot portal",
+        "Identifikasi plica",
+        "Eksisi plica dengan Radiofrequency dan shaver",
+        "Kulit ditutup dengan Prolene 4-0 atau T-vio 4-0",
+        "Balut kassa segi 4 dan fiksasi dengan fixomul stretch",
+        "Balut dengan softban dan elastic verband",
+        "Pasang arm sling"
+      ],
+      "catatanSettingDanOperasi": [
+        "Diatermi tidak dipakai",
+        "Sebelum operasi dimulai pastikan kamera sudah di white balance, air di selang air sudah dialirkan untuk mencegah emboli udara dan flashdisk sudah terpasang di sistem kamera",
+        "Setting water pump di 30mmHg",
+        "Setting coagulation dan cutting RF arthroscopy di 5 sampai 7",
+        "Setting shaver di 2000",
+        "Manset tekanan darah di kaki",
+        "Posisi pasien harus dipastikan ada side bar / bracket samping / penyangga badan pasien agar tidak jatuh",
+        "Draping pasien sampai tertutup kaki"
+      ]
+    }
+  }
+  

@@ -1,0 +1,58 @@
+{
+    "laporanOperasi": {
+      "namaTindakan": "Open acromioplasty dan rotator cuff repair",
+      "posisiPasien": "Beach chair position (Setengah duduk)",
+      "jenisPembiusan": "Anestesi umum dengan / tanpa blok regional",
+      "asistenOperasi": "1 orang",
+      "instrumenOperasi": "1 orang",
+      "perkiraanLamaTindakan": "acromioplasty: 60 menita dan acromioplasty dengan rotator Cuff Repair 90 menit"
+      ,
+      "instrumentasi": [
+        "Basic set dewasa",
+        "Set shoulder dr. Erica",
+        "Bone file (kikir tulang)",
+        "Jarum jahit kosong",
+        "Rounger / knabel tang lurus",
+        "Oscillating saw (sagittal blade – standard 10 x 35 x 0.60mm)",
+        "Bor desouter",
+        "Palu kecil"
+      ],
+      "alatMedisHabisPakai": [
+        "Elastic verband steril",
+        "Benang ethibond no. 2",
+        "Benang silk no.1 tanpa jarum untuk tagging",
+        "Vicryl 2-0 atau T-vio 2-0",
+        "Monosyn 3-0 atau T-vio 3-0",
+        "Ioban besar",
+        "Arm sling",
+        "HOGY Orthopaedic drape",
+        "Skin marker"
+      ],
+      "langkahLangkahOperasi": [
+        "Insisi anterior acromion",
+        "Insisi diperdalam sampai otot deltoid",
+        "Otot deltoid di tagging dengan benang silk no.1",
+        "Otot deltoid dipisahkan tajam dengan diatermi dari tulang acromion",
+        "Ujung tulang acromion ditandai dengan diatermi untuk dilakukan osteotomi",
+        "Osteotomi dengan oscillating saw atau osteotome (pahat)",
+        "Evaluasi rotator cuff",
+        "Tagging tendon rotator cuff dengan silk dan release tendon dengan bursa disekitarnya dengan gunting mayo",
+        "Tulang tuberositas major humerus dibersihkan dari jaringan parut dengan diatermi dan kuret",
+        "Ujung tendon rotator cuff direfreshing dengan pisau / gunting jaringan",
+        "Rotator cuff di-repair dengan ethibond ke tulang tuberositas mayor",
+        "Irigasi dengan NaCl, kontrol perdarahan",
+        "Otot deltoid di-repair ke acromion dengan ethibond",
+        "Subkutis jahit dengan vicryl / T-vio 2-0",
+        "Kulit ditutup dengan monosyn 3-0 atau T-vio 3-0",
+        "Pasang arm sling"
+      ],
+      "catatanSettingDanOperasi": [
+        "Diatermi cutting 30, coagulation 30",
+        "Manset tekanan darah di kaki",
+        "Posisi pasien harus dipastikan ada side bar / bracket samping / penyangga badan pasien agar tidak jatuh",
+        "Lutut disangga dengan bantal khusus agar pasien tidak melorot dari tempat tidur",
+        "Draping pasien sampai tertutup kaki"
+      ]
+    }
+  }
+  
